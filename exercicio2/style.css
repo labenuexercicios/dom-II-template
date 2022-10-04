@@ -41,5 +41,6 @@
   
   .dark button{
     background-color: #8e8e8e;
+    border: 2px solid rgb(79, 73, 73);
     color: white;
   }
